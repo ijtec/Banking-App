@@ -1,0 +1,61 @@
+.btn{
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    }
+    .btn img{
+      height: 40px ;
+      position: relative;
+      top: 2px;
+      right: 30px;
+      
+    }
+span{
+  font-size: 12px;
+  color: #504a4a;
+}
+
+.navbar {
+    margin-top: 50px;
+    width: 155px; 
+    height: 400px; 
+    background-color: rgb(232, 235, 235);
+    padding: 20px; 
+    border-radius: 10px;
+  }
+  
+  .navbar a {
+    display: block; 
+    color: #b2abab; 
+    text-align:left ; 
+    padding: 14px; 
+    text-decoration: none; 
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  #set{
+    color: #b2abab;
+  }
+#btm{
+  border-radius: 80px;
+    background-color: gold;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+}
+img{
+  border-radius:80px ;
+  height: 80px;
+  }
